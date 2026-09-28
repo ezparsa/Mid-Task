@@ -1,0 +1,21 @@
+:root {
+    --primary: #6366f1;
+    --primary-dark: #4f46e5;
+    --primary-light: #eef2ff;
+
+    --white: #ffffff;
+    --background: #f8fafc;
+
+    --text-dark: #1e293b;
+    --text-medium: #64748b;
+    --text-light: #94a3b8;
+
+    --border: #e2e8f0;
+
+    --star: #f59e0b;
+
+    --shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+    --shadow-hover: 0 20px 40px rgba(15, 23, 42, 0.14);
+
+    --radius: 18px;
+}
